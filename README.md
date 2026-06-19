@@ -19,7 +19,7 @@ covering the complete modern DevOps stack.
 | Project | Description | Tech |
 |---------|-------------|------|
 | [Linux System Audit Tool](https://github.com/atulupadhyay2004/linux-system-audit-tool) | Automated system health monitoring | Bash, systemd |
-| [GitHub Actions CI/CD Pipeline](https://github.com/atulupadhyay2004/github-actions-cicd-pipeline) | Complete CI/CD automation | GitHub Actions, Docker |
+| [GitHub Actions CI/CD Pipeline](https://github.com/atulupadhyay2004/github-actions-cicd-pipeline) | Complete CI/CD automation | GitHub Actions |
 | More coming daily... | | |
 
 ## 📈 Current Focus
