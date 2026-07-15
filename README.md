@@ -1,46 +1,122 @@
-# Hi, I'm Atul Upadhyay 👋
+<h1 align="center">Hi 👋, I'm Atul Upadhyay</h1>
+<h3 align="center">DevOps Engineer | Automating Infrastructure in Mumbai</h3>
 
-## 🚀 DevOps Engineer | Mumbai, India
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20Work-DevOps%20%7C%20Cloud%20%7C%20SRE-brightgreen?style=for-the-badge&logo=linkedin" />
+</p>
 
-CS Graduate with 6 months of intensive hands-on
-DevOps training covering the complete modern stack.
-
-## 🛠️ Tech Stack
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=argo&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
-
-## 📂 Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| [EKS ArgoCD Capstone](https://github.com/atulupadhyay2004/eks-argocd-capstone) | Complete GitOps CI/CD pipeline | GitHub Actions, EKS, ArgoCD, Helm |
-| [Jenkins CI/CD Pipeline](https://github.com/atulupadhyay2004/jenkins-cicd-pipeline) | 7-stage production pipeline | Jenkins, Docker, GitHub Actions |
-| [Node.js Monitoring](https://github.com/atulupadhyay2004/nodejs-monitoring) | Custom Prometheus metrics + Grafana | Prometheus, Grafana, Node.js |
-| [Secure K8s Workload](https://github.com/atulupadhyay2004/secure-k8s-workload) | Security hardened workload | Trivy, RBAC, Secrets Manager |
-| [Terraform AWS Infra](https://github.com/atulupadhyay2004/terraform-aws-infra) | Complete AWS infrastructure as code | Terraform, AWS, EC2, VPC |
-| [Ansible 3-Tier Stack](https://github.com/atulupadhyay2004/ansible-3tier) | Automated 3-tier app deployment | Ansible, Nginx, Node.js, PostgreSQL |
-| [Linux System Audit Tool](https://github.com/atulupadhyay2004/linux-system-audit-tool) | System health monitoring script | Bash, systemd |
-
-## 📈 Current Focus
-
-- 🎯 Actively looking for DevOps Engineer roles in Mumbai
-- 🔨 6 months intensive hands-on DevOps training completed
-- 📚 Stack: Docker → K8s → AWS → Terraform → ArgoCD → Monitoring
-
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atul-upadhyay-847796309)
-[![Docker Hub](https://img.shields.io/badge/Docker_Hub-2496ED?style=flat&logo=docker&logoColor=white)](https://hub.docker.com/u/atulupadhyay002)
+<p align="center">
+  CS Graduate with <strong>6 months of intensive hands-on DevOps training</strong>. 
+  I build secure, scalable infrastructure and treat everything as code.
+</p>
 
 ---
-⚡ Open to DevOps Engineer opportunities in Mumbai and Remote
+
+### ⚙️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+  <br />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+</p>
+
+---
+
+### 📂 Engineering Projects (Click the titles to see the code)
+
+#### 🔹 [EKS ArgoCD GitOps Capstone Pipeline](https://github.com/atulupadhyay2004/eks-argocd-capstone)
+> *Zero-downtime deployments with automated rollbacks.*
+- Built a complete GitOps pipeline: GitHub Actions → Docker Hub → ArgoCD (EKS) triggered on every push.
+- Implemented Helm charts with sync waves and PostSync smoke tests to validate production readiness.
+- Enables instant rollbacks via ArgoCD UI, CLI, or simple Git revert.
+- **Tech:** `GitHub Actions` | `EKS` | `ArgoCD` | `Helm` | `Node.js`
+
+#### 🔹 [Jenkins CI/CD Pipeline](https://github.com/atulupadhyay2004/jenkins.git)
+> *Production-grade automation with 7 rigorous stages.*
+- Built a declarative pipeline: Checkout → Install → Lint → Test → Build → Push → Deploy.
+- Integrated GitHub webhooks and Jenkins credentials for automated Docker Hub pushes.
+- Added health checks and smoke tests to ensure no broken code reaches production.
+- **Tech:** `Jenkins` | `Docker` | `Node.js` | `Bash`
+
+#### 🔹 [Node.js Custom Monitoring Stack](https://github.com/atulupadhyay2004/k8s_Monitoring-with-Prometheus-Grafana.git)
+> *Deep observability into application performance.*
+- Instrumented a Node.js app with 5 custom Prometheus metrics (request rate, error rate, response time).
+- Built a Grafana dashboard with 6 detailed panels and configured 5 proactive alert rules.
+- Debugged and fixed a complex ServiceMonitor issue on EKS where pod annotations alone failed.
+- **Tech:** `Prometheus` | `Grafana` | `Loki` | `Node.js` | `EKS`
+
+#### 🔹 [Secure Kubernetes Workload](https://github.com/atulupadhyay2004/secure-k8s-workload.git)
+> *Hardened security for cloud-native workloads.*
+- Implemented IRSA to grant pod-level access to AWS Secrets Manager (zero hardcoded credentials).
+- Enforced RBAC with least privilege and enabled KMS encryption for all etcd secrets.
+- Automated vulnerability scanning with Trivy and enabled full CloudTrail audit logging.
+- **Tech:** `AWS Secrets Mgr` | `IRSA` | `RBAC` | `KMS` | `Trivy` | `EKS`
+
+#### 🔹 [Terraform AWS Infrastructure](https://github.com/atulupadhyay2004/terraform.git)
+> *Infrastructure as Code built for team collaboration.*
+- Deployed a complete AWS environment: VPC, subnets, Security Groups, EC2, and IAM.
+- Configured S3 remote backend with DynamoDB state locking to prevent team conflicts.
+- Automated infrastructure teardown to eliminate orphaned resources and cut cloud costs.
+- **Tech:** `Terraform` | `AWS EC2/VPC/IAM/S3` | `Security Groups`
+
+#### 🔹 [Ansible 3-Tier Application Stack](https://github.com/atulupadhyay2004/ansible-3tier.git)
+> *Idempotent automation across multi-tier architecture.*
+- Automated deployment of Web (Nginx), App (Node.js), and DB (PostgreSQL) tiers across separate EC2 instances.
+- Used Ansible Vault for encrypted secrets and dynamic AWS inventory for host discovery.
+- Achieved 100% idempotency—the second playbook run resulted in zero changes.
+- **Tech:** `Ansible` | `Nginx` | `Node.js` | `PostgreSQL` | `AWS EC2`
+
+#### 🔹 [Linux System Audit Tool](https://github.com/atulupadhyay2004/linux-system-audit-tool.git)
+> *Proactive system health reporting.*
+- Built a Bash script to monitor CPU, memory, disk, open ports, and user sessions.
+- Configured as a systemd service for automatic execution on system startup.
+- **Tech:** `Bash` | `Linux` | `systemd`
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=atulupadhyay2004&show_icons=true&theme=radical" alt="Atul's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulupadhyay2004&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 💬 Ask Me About
+
+- AWS EKS & Kubernetes orchestration
+- GitOps workflows with ArgoCD
+- Terraform state management & collaboration
+- Building dashboards with Prometheus & Grafana
+- Security hardening (IRSA, KMS, Trivy)
+
+---
+
+### 📫 Let's Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/atul-upadhyay-847796309" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://hub.docker.com/u/atulupadhyay002" target="_blank">
+    <img src="https://img.shields.io/badge/Docker_Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  </a>
+  <a href="mailto:upadhyayatul635@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+⚡ **Open to DevOps / Cloud Engineer opportunities in Mumbai & Remote.** Let's build something scalable together!
