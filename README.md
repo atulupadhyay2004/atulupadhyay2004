@@ -84,14 +84,17 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🏆 DevOps Journey
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atulupadhyay2004&show_icons=true&theme=radical" alt="Atul's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulupadhyay2004&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen)
+![Deployment](https://img.shields.io/badge/Deployment-Automated-blue)
+![Security](https://img.shields.io/badge/Security-Hardened-red)
+![Monitoring](https://img.shields.io/badge/Monitoring-Prometheus-orange)
 
----
+- **Completed:** 6 months intensive DevOps training
+- **Projects built:** 7 end-to-end CI/CD pipelines
+- **Infrastructure provisioned:** 100% Terraform managed
+- **Current status:** Open to DevOps/SRE roles
 
 ### 💬 Ask Me About
 
